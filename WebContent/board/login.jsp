@@ -21,12 +21,8 @@
 <!-- Latest compiled JavaScript -->
 <script
 	src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
-	
-<style type="text/css">
-.size {
-	max-width: 1200px;
-}
 
+<style type="text/css">
 .login {
 	max-width: 600px;
 	padding: 50px;
@@ -35,25 +31,6 @@
 <title>로그인</title>
 </head>
 <body>
-	
-<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
-  <a class="navbar-brand" href="../index.html">
-    <img src="../images/logo01.png" alt="logo" style="width:40px;">
-  </a>
-  
-  <ul class="navbar-nav">
-    <li class="nav-item">
-      <a class="nav-link" href="#">Link 1</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link" href="#">Link 2</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link" href="#">Link 3</a>
-    </li>
-  </ul>
-</nav>
-
 	<div class="container login">
 		<form action="#">
 			<div class="form-group">
@@ -72,7 +49,5 @@
 			<button type="submit" class="btn btn-primary">로그인</button>
 		</form>
 	</div>
-
-
 </body>
 </html>
